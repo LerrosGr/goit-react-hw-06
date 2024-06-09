@@ -1,0 +1,17 @@
+.mainFormWrapper {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.label {
+  display: block;
+}
+.formButton {
+  margin-top: 10px;
+}
+.error {
+  margin-left: 15px;
+  color: red;
+}

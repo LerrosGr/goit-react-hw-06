@@ -1,0 +1,16 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+}
+.contactItem {
+  display: flex;
+  align-items: center;
+}
